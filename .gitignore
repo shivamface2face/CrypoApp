@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+.gitinore
+/.gitinore
 
 # testing
 /coverage
